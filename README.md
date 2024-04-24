@@ -1,4 +1,4 @@
-### Hi there 👋
+### Let me show you my hard skills here 👋
 
 [![My Skills](https://skillicons.dev/icons?i=alpinejs,anaconda,angular,apple,arch,atom,bash,bitbucket,bootstrap,css,debian,docker,eclipse,git,github,githubactions,gitlab,gmail,gherkin,hibernate,html,idea,instagram,java,js,jenkins,jquery,kubernetes,laravel,latex,linkedin,linux,md,materialui,maven,mint,mysql,nginx,nodejs,npm,octave,php,phpstorm,pnpm,postgres,postman,powershell,pycharm,py,react,redhat,regex,rocket,spring,stackoverflow,sublime,scala,selenium,svg,tailwind,twitter,ts,ubuntu,vim,visualstudio,vite,vitest,vscode,vscodium,webpack,webstorm,windows,yarn&perline=20)](https://skillicons.dev)
 
